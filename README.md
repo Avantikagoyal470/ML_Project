@@ -13,12 +13,12 @@ The project leverages historical sales data and additional store-related informa
 
 # Dependencies
 
-Python 3.x,
-Jupyter Notebook,
-pandas,
-numpy,
-scikit-learn,
-matplotlib,
-seaborn,
-xgboost (for XGBoost model),
-adaboost (for AdaBoost model).
+- Python 3.x
+- Jupyter Notebook
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
+- seaborn
+- xgboost (for XGBoost model)
+- adaboost (for AdaBoost model)
